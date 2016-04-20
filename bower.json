@@ -1,0 +1,27 @@
+{
+  "name": "async-element",
+  "version": "0.1.0",
+  "authors": [
+    "Joost de Bruijn <joost@aqualabs.nl>"
+  ],
+  "description": "Polymer element wrapper for the async library",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "async"
+  ],
+  "main": "async-element.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joostdebruijn/async-element.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/joostdebruijn/async-element",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "async": "*"
+  }
+}
