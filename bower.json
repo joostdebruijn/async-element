@@ -4,7 +4,7 @@
   "authors": [
     "Joost de Bruijn <joost@aqualabs.nl>"
   ],
-  "description": "Polymer element wrapper for the async library",
+  "description": "Webcomponent element wrapper for the async library",
   "keywords": [
     "web-component",
     "polymer",
